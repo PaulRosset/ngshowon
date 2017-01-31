@@ -1,0 +1,22 @@
+{
+  "name": "ngShowOn",
+  "main": "ngShowOn.js",
+  "authors": [
+    "paulrosset96@gmail.com"
+  ],
+  "description": "A simple angular directive to show element according to the size of the window",
+  "keywords": [
+    "angular",
+    "directive",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
